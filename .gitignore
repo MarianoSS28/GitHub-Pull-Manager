@@ -1,0 +1,7 @@
+# carpetas generadas
+build/
+dist/
+
+# Archivos de configuración locales
+app.spec
+repos.json
